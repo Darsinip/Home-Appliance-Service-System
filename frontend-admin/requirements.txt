@@ -1,0 +1,28 @@
+Admin Portal Requirements
+
+Frontend Framework
+React==19.2.7
+
+Routing
+react-router-dom==7.18.1
+
+HTTP Client
+axios==1.18.1
+
+UI Framework
+bootstrap==5.3.8
+
+Build Tool
+vite==8.1.1
+
+Linting
+eslint==10.6.0
+eslint-plugin-react-hooks==7.1.1
+eslint-plugin-react-refresh==0.5.3
+
+React Support
+@vitejs/plugin-react==6.0.3
+
+Type Definitions
+@types/react==19.2.17
+@types/react-dom==19.2.3
